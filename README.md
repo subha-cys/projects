@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Subhankar Sahoo</h1>
-<h3 align="center">AIML student | Fast Bowler | Future AI Pro | Code Warrior</h3>
+<h3 align="center">AIML student | Future AI Pro | Code Warrior</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🎓 I'm currently pursuing *AI & Machine Learning specialization* in Engineering
-- 💻 I love to code smart solutions, build ML models, and play with data
+- 🎓 I'm currently pursuing *AI & Machine Learning specialization* in Engineering...
+- 💻 I love to code smart solutions, build ML models, and play with data...
 - 🧠 Currently diving deep into *Neural Networks & LLMs*
-- 💬 Ask me about Python, ML basics, or cricket sledging 😄
-- ⚡ Fun fact: I'm an aggressive fast bowler and the captain of my team
+- 💬 Ask me about Python, ML basics, or geopolitices😄
+
 
 ---
 
@@ -32,5 +32,4 @@
 
 ---
 
-### 🏏 Quote I Live By
-> "Whether it's on the pitch or in code — I deliver fast, hit hard, and never back down."
+
